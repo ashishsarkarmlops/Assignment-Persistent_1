@@ -1,0 +1,100 @@
+﻿Customer Input,Category,Ticket Type
+The internet Speed is much slower than Usual,Network Issue,Support
+I need assistance setting up a virtual private network (VPN),Network Issue,Support
+The cursor on my laptop is not moving,OS Issue,Incident
+I'm having issue connecting to the Internet,Network Issue,Incident
+"I accidentally deleted important files, can you help me recover them?",Data Recovery,Support
+The printer is not responding when I try to print documents,Printer Issue,Incident
+I forgot my password and can't log into my account,Account Lockout,Support
+The software I'm using keeps crashing unexpectedly,Software Problem,Incident
+I want to upgrade my subscription to premium,Software Support,Suppport
+My email is not syncing on my phone,Email Issue,Incident
+I'm getting a blue screen error on Windows startup,OS Issue,Incident
+Can you recommend the best laptop for graphic design?,Product Recommendation,Support
+The internet speed is much slower than usual,Network Issue,Incident
+How do I change the language settings in the software?,Software Support,Support
+I accidentally spilled water on my keyboard and it's not working now,Hardware Issue,Incident
+I want to cancel my subscription and get a refund,Software Support,Support
+The battery of my laptop is draining very quickly,Battery Issue,Incident
+How do I transfer files between two computers on the same network?,FTP Issue,Support
+I'm locked out of my account after too many failed login attempts,Account Lockout,Incident
+I need help installing a software update on my VM,Software Support,Support
+The fan in my computer is making a lot of noise,Hardware Issue,Incident
+How do I connect my laptop to an external monitor?,Hardware Support,Support
+"I accidentally uninstalled an important program, how can I get it back?",Software Support,Support
+The screen of my laptop is flickering intermittently,Hardware Issue,Incident
+I want to change the email address associated with my account,Email Support,Support
+I'm experiencing slow boot times on my computer,OS Issue,Incident
+How can I set up auto-reply for my email when I'm on vacation?,Email Support,Support
+The keys on my keyboard are sticking and not typing properly,Hardware Issue,Incident
+I'm having trouble connecting to a Bluetooth device,OS Issue,Support
+My computer is getting very hot and shutting down unexpectedly,Hardware Issue,Incident
+How do I restore my computer to a previous backup?,Data Recovery,Support
+"The audio on my computer is not working, no sound is coming out",Audio Issue,Incident
+I accidentally made changes to a document and want to revert them,Software Support,Support
+"I'm getting pop-up ads on my screen, how do I remove them?",Adware Removal,Support
+The webcam on my laptop is not being recognized,Software Issue,Incident
+I need to recover an unsaved document after a crash,Data Recovery,Support
+The colors on my monitor seem distorted,Hardware Issue,Incident
+How can I set up email forwarding to another address?,Email Support,Support
+"My computer is getting slower over time, can you help optimize it?",Performance Optimization,Support
+"I'm unable to access certain websites, they appear blocked",Website Access,Incident
+How do I change the screen resolution on my monitor?,OS Support,Support
+"I accidentally deleted the important emails, how can I recover them?",Email Support,Support
+The software is asking for a license key but I don't have one,Software Support,Support
+Can you recommend a good antivirus software?,Product Recommendation,Support
+My computer is not recognizing the external hard drive I connected,Hardware Issue,Incident
+How do I change the default browser on my computer?,Software Support,Support
+"I accidentally cleared my browser history, can I undo this?",Software Support,Support
+The touch screen on my system is not responding to touch,Touch Screen Issue,Incident
+How can I set up two-factor authentication for my accounts?,Account Support,Support
+"My computer is getting a lot of spam emails, what should I do?",Email Issue,Incident
+"I accidentally removed an important system file, now my computer won't start",OS Issue,Incident
+How do I change the language on my desktop?,OS Support,Support
+The battery percentage on my laptop is not accurate,Battery Issue,Incident
+I received a suspicious email asking for personal information,Email Issue,Incident
+How can I recover deleted photos from my workstation,Data Recovery,Support
+The software I'm using is giving 'Out of Memory' errors,Memory Error,Incident
+I'm having trouble connecting to a secure Wi-Fi network,Network Issue,Support
+How do I clear cookies and cache in my web browser?,Browser Support,Support
+My computer is showing a 'No Bootable Device' error on startup,Hardware Issue,Incident
+"I accidentally formatted my USB drive, can I recover the data?",Data Recovery,Support
+The software interface is too small on my high-resolution monitor,Software Support,Incident
+How do I set up a secure password for my online accounts?,Password Security,Incident
+I'm having issues with the sound quality during video calls,Audio Issue,Incident
+Can you recommend a good JavaScript editing software?,Product Recommendation,Support
+The cursor is moving erratically on my laptop screen,OS Issue,Incident
+How do I set up email filters to organize my inbox?,Email Support,Support
+My computer is freezing randomly and I have to restart,OS Issue,Incident
+"I accidentally uninstalled my graphics driver, what should I do?",Software Support,Support
+How can I recover deleted emails from my Outlook?,Email Support,Support
+The software I'm using is not compatible with my operating system,Software Issue,Incident
+I'm having trouble accessing shared files on the network,FTP Issue,Support
+How do I set up recurring reminders on my calendar app?,Software Support,Support
+My computer is heating up and shutting down while using GPU,Hardware Issue,Support
+"I accidentally deleted a partition on my hard drive, can I restore it?",Data Recovery,Support
+The font settings in my software have changed unexpectedly,Software Support,Support
+How do I set up a new email account in Outlook?,Email Support,Support
+I'm encountering 'Insufficient Storage' errors,Memory Error,Incident
+"I accidentally closed a document without saving, can I recover it?",Data Recovery,Support
+The icons on my desktop are rearranging themselves after restart,OS Issue,Incident
+How can I set up a virtual machine on my computer?,Virtual Machine Support,Support
+My computer is making a loud beeping sound during startup,Hardware Issue,Incident
+I accidentally deleted important bookmarks in my web browser,Browser Support,Support
+My email is not syncing on my phone,Email Support,Support
+The Software I'm using keeps crashing unexpectedly.,Software Issue,Incident
+I want to upgrade my Teams subscription to premium,Software Support,Support
+I want to install Office365 in my Workstation,Software Support,Support
+Unable to Connect on Client dedicated VLAN,Network Issue,Incident
+Sound Drivers are not detected in my system,Audio Issue,Incident
+Need support to install Wandb AI in my workstation,Software Support,Support
+Microphone on the workstation on not woking hence unable to join Virtual calls and meetings,Hardware Issue,Incident
+I can't connect to web portal on virtual machines,Virtual Machine Support,Support
+I can't connect to firewall on my laptop,Network Issue,Incident
+I can't connect to remote desktop on my laptop,Virtual Machine Support,Incident
+I can't connect to video conferencing during meetings,Software Issue,Incident
+I can't connect to user account on the admin account,Account Support,Incident
+I experiencing issues with password on the company network,Account Support,Incident
+I unable to install VPN on the server,Network Issue,Incident
+I experiencing outages in WiFi in the office,Network Issue,Support
+I experiencing disruptions in antivirus on my system,Software Support,Support
